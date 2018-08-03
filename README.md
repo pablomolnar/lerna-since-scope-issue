@@ -1,6 +1,6 @@
 # lerna-since-scope-issue
 
-Lerna scope does not work always "@my-company/*" vs "@my-company/app-*"
+Lerna scope does not work always `@my-company/*` vs `@my-company/app-*`
 
 ## Lerna
 
