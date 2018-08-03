@@ -55,7 +55,7 @@ lerna info Checking for prereleased packages...
 /tmp/lerna-since-scope-issue/packages/app-test
 
 
-# lerna exec FAILS to detec changes since master with scope "@my-company/app-*"  (OK)
+# lerna exec FAILS to detect changes since master with scope "@my-company/app-*"  (OK)
 $ lerna exec --since master --scope @my-company/app-*  -- pwd
 lerna info version 2.11.0
 lerna info scope @my-company/app-*
